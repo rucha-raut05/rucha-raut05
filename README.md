@@ -1,8 +1,8 @@
-## Hi there 👋
-I'm Rucha Raut 
 # 💫 About Me:
-A passionate Computer Science student interested in Machine Learning, AI, and problem solving.<br>Currently exploring ML algorithms & real-world projects.<br>Built an AI-powered Medicine Recommendation System.<br>Interested in Data Science, Regression Models & Predictive Systems.<br>Always learning and improving step by step.
-
+Hi there 👋
+I'm Rucha Raut, a final-year Computer Engineering student studying at Government College of Engineering, Yavatmal.
+A passionate Computer Engineering student interested in Machine Learning, AI, and problem-solving. Currently working on a Personalized Medicine Recommendation System.
+Interested in Data Science, Regression Models, and Predictive Systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__ruchaaa__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rucha-raut05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rrucha7@gmail.com) 
